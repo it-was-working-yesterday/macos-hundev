@@ -12,12 +12,11 @@ brew install --cask google-chrome sublime-text docker intellij-idea alfred forkl
 
 brew install anaconda --cask
                   
-mas install Magnet 
-mas install Xcode 
-mas install Amphetamine 
-mas install "Home Assistant"
-mas install GrandPerspective
-mas install Todoist
+mas install 441258766 # Magnet 
+mas install 497799835 # Xcode 
+mas install 937984704 # Amphetamine 
+mas install 1099568401 # "Home Assistant"
+mas install 585829637 # Todoist
 
 # Licenses to acquire
  # IntelliJ
@@ -30,7 +29,7 @@ mas install Todoist
 # get the Hungarian keyboard layout
 git clone https://github.com/it-was-working-yesterday/macos-citrix-hun-key-layout.git
 cd macos-citrix-hun-key-layout
-sudo cp Hungarian_Win.keylayout /Library/Keyboard Layouts/
-cp Config /Users/$USER/Library/Application Support/Citrix Receiver/
+sudo cp Hungarian_Win.keylayout "/Library/Keyboard Layouts/"
+cp Config "/Users/$USER/Library/Application Support/Citrix Receiver/"
 cd ..
 rm -rf macos-citrix-hun-key-layout
