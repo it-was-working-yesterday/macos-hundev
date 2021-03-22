@@ -4,10 +4,10 @@
 # Manually install Citrix workspace
 
 # brew install basics
-brew install git node mas minikube helm
-brew cask install google-chrome anaconda textmate docker intellij-idea alfred forklift lens todoist iterm2 calibre fantastical vlc spotify transmission keka witch\
-                  fritzing soundsource monitorcontrol nordvpn karabiner-elements
-mas install Magnet Xcode
+brew install git node mas tree htop fd go bat insect
+brew install --cask google-chrome anaconda sublime-text docker intellij-idea alfred forklift todoist iterm2 calibre fantastical vlc spotify transmission keka \
+                  fritzing soundsource monitorcontrol nordvpn karabiner-elements oracle-jdk handbrake shotcut darktable 
+mas install Magnet Xcode Amphetamine "Home Assistant" GrandPerspective
 
 # Licenses to acquire
  # IntelliJ
