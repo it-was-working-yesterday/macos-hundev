@@ -8,7 +8,7 @@ sudo softwareupdate --install-rosetta
 # brew install basics
 brew install git node mas tree htop fd go bat insect nnn
 brew install --cask google-chrome sublime-text docker intellij-idea alfred forklift iterm2 calibre fantastical vlc spotify transmission keka \
-                  fritzing soundsource monitorcontrol nordvpn karabiner-elements oracle-jdk handbrake shotcut darktable alt-tab
+                  fritzing soundsource monitorcontrol nordvpn karabiner-elements oracle-jdk handbrake shotcut darktable contexts
 
 brew install anaconda --cask
                   
