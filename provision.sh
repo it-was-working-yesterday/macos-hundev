@@ -23,7 +23,7 @@ mas install 585829637 # Todoist
  # alfred
  # Forklift
  # Fantastical
- # witch
+ # contexts
  # soundsource
 
 # get the Hungarian keyboard layout
