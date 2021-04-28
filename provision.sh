@@ -10,8 +10,6 @@ brew install git node mas tree htop fd go bat insect nnn
 brew install --cask google-chrome sublime-text docker intellij-idea alfred forklift iterm2 calibre fantastical vlc spotify transmission keka \
                   fritzing soundsource monitorcontrol nordvpn karabiner-elements oracle-jdk handbrake shotcut contexts qview
                   
-brew install --cask cheatsheet
-
 brew install anaconda --cask
                   
 mas install 441258766 # Magnet 
